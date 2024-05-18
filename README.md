@@ -1,3 +1,5 @@
+NonLinearDynamic   
+_____  
 ### Лабораторная №1 (Lab1)   
 Математические модели генной регуляции (Mathematical models of gene regulation)  
 ### Лабораторная №2 (Lab2)  

@@ -5,5 +5,5 @@
 ### Лабораторная №3 (Lab3)  
 Численное интегрирование ОДУ (Numerical integration of ODE)  
 ### Лабораторная №4 (Lab4)  
-Моделирование реакции распада и синтеза с использованием метода Бернулли и метода Гиллеспи (Simulation of decomposition and synthesis reactions using
-Bernoulli method and Gillespie method)
+Моделирование реакции распада и синтеза с использованием метода Бернулли и метода Гиллеспи  
+(Simulation of decomposition and synthesis reactions using Bernoulli method and Gillespie method)
